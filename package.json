@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "tikal-fuse-core": "git+https://github.com/menico/tikal-fuse-core.git"
+  },
   "devDependencies": {
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.7.0",
@@ -16,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://noygal@github.com/menico/tikal-fuse-gateway.git"
+    "url": "git+https://github.com/menico/tikal-fuse-gateway.git"
   },
   "keywords": [],
   "author": "",
