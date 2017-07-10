@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.15.3",
+    "http-proxy": "^1.16.2",
+    "passport": "^0.3.2",
+    "passport-github2": "^0.1.10",
     "tikal-fuse-core": "git+https://github.com/menico/tikal-fuse-core.git"
   },
   "devDependencies": {
